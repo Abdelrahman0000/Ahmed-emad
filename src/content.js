@@ -336,7 +336,7 @@ export const copy = {
     aboutBody:
       "أحمد عماد صبحي مدين، من مدينة السادات. خريج آداب علم نفس، واشتغلت مبيعات شركات من 2022: أولًا حلول ويب وبرمجيات مع فوندا، وبعدين حسابات لوجستية مع سيلا للتوصيل. الخيط واحد في الاتنين — القرار مش بيتحصل من عرض السعر، بيحصل لما الرسالة تلمس السبب الحقيقي للتردد.",
     facts: [
-      { k: "المكان", v: "مدينة السادات، مصر" },
+      { k: "المكان", v: "شبين الكوم، مصر" },
       { k: "اللغات", v: "العربية · English" },
       { k: "الخبرة", v: "أكتر من 3 سنين" },
       { k: "القطاعات", v: "لوجستيات · برمجيات" },
@@ -480,7 +480,7 @@ export const copy = {
     ],
     contactKicker: "07 — التردد",
     contactTitle: "لو عندك عميل بيتأخر في القرار، ابعت التفاصيل.",
-    contactLead: "مدينة السادات. أرد خلال يوم عمل.",
+    contactLead: "شبين الكوم. أرد خلال يوم عمل.",
     email: "reu3758@gmail.com",
     phone: "0109 473 1657",
     phoneHref: "tel:+201094731657",
@@ -529,7 +529,7 @@ export const copy = {
     aboutBody:
       "Ahmed Emad Sobhi Madian, based in Sadat City. A psychology graduate who has worked B2B sales since 2022 — first web and software solutions at Fonda, then logistics accounts at Sella Delivery. The thread is the same: the deal is not won by the price sheet. It is won when the message touches the real reason for hesitation.",
     facts: [
-      { k: "Base", v: "Sadat City, Egypt" },
+      { k: "Base", v: "Shibin El Kom, Egypt" },
       { k: "Languages", v: "Arabic · English" },
       { k: "Practice", v: "3+ years" },
       { k: "Sectors", v: "Logistics · Software" },
@@ -673,7 +673,7 @@ export const copy = {
     ],
     contactKicker: "07 — Frequency",
     contactTitle: "If a client is slow to decide, send the details.",
-    contactLead: "Sadat City. I reply within one working day.",
+    contactLead: "Shibin El Kom. I reply within one working day.",
     email: "reu3758@gmail.com",
     phone: "0109 473 1657",
     phoneHref: "tel:+201094731657",
